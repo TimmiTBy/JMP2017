@@ -1,0 +1,165 @@
+2017-02-23 21:12:31 DEBUG Test:13 - good
+2017-02-23 21:13:242017-02-23 21:14:47 DEBUG Test:13 - good
+2017-02-23 21:59:18 DEBUG CustomJarClassLoader:50 - No valid classes were loaded
+2017-02-23 21:59:18 INFO  CustomJarClassLoader:72 - java.lang.Object Class was loaded from cahce to memory
+2017-02-23 21:59:18 INFO  CustomJarClassLoader:78 - java.lang.Object Class was loaded to memory
+2017-02-23 21:59:18 INFO  CustomJarClassLoader:47 - com.epam.classloading.CustomJarClass class loaded in cache from jar
+2017-02-23 21:59:18 INFO  CustomJarClassLoader:72 - CustomJarClass Class was loaded from cahce to memory
+2017-02-23 21:59:18 INFO  CustomJarClassLoader:72 - org.apache.log4j.Logger Class was loaded from cahce to memory
+2017-02-23 21:59:18 INFO  CustomJarClassLoader:78 - org.apache.log4j.Logger Class was loaded to memory
+2017-02-23 21:59:18 INFO  CustomJarClassLoader:72 - java.lang.StringBuilder Class was loaded from cahce to memory
+2017-02-23 21:59:18 INFO  CustomJarClassLoader:78 - java.lang.StringBuilder Class was loaded to memory
+2017-02-23 21:59:18 INFO  CustomJarClassLoader:72 - java.lang.Class Class was loaded from cahce to memory
+2017-02-23 21:59:18 INFO  CustomJarClassLoader:78 - java.lang.Class Class was loaded to memory
+2017-02-23 21:59:18 DEBUG CustomJarClass:16 - Initing instance of com.epam.classloading.CustomJarClass class
+2017-02-23 21:59:18 DEBUG CustomJarClass:23 - Method of com.epam.classloading.CustomJarClass class
+2017-02-23 22:00:38 DEBUG CustomJarClassLoader:50 - No valid classes were loaded
+2017-02-23 22:00:38 DEBUG CustomJarClassLoader:72 - java.lang.Object Class was loaded from cahce to memory
+2017-02-23 22:00:38 DEBUG CustomJarClassLoader:78 - java.lang.Object Class was loaded to memory
+2017-02-23 22:00:38 DEBUG CustomJarClassLoader:47 - com.epam.classloading.CustomJarClass class loaded in cache from jar
+2017-02-23 22:00:38 DEBUG CustomJarClassLoader:72 - CustomJarClass Class was loaded from cahce to memory
+2017-02-23 22:00:38 DEBUG CustomJarClassLoader:72 - org.apache.log4j.Logger Class was loaded from cahce to memory
+2017-02-23 22:00:38 DEBUG CustomJarClassLoader:78 - org.apache.log4j.Logger Class was loaded to memory
+2017-02-23 22:00:38 DEBUG CustomJarClassLoader:72 - java.lang.StringBuilder Class was loaded from cahce to memory
+2017-02-23 22:00:38 DEBUG CustomJarClassLoader:78 - java.lang.StringBuilder Class was loaded to memory
+2017-02-23 22:00:38 DEBUG CustomJarClassLoader:72 - java.lang.Class Class was loaded from cahce to memory
+2017-02-23 22:00:38 DEBUG CustomJarClassLoader:78 - java.lang.Class Class was loaded to memory
+2017-02-23 22:00:38 DEBUG CustomJarClass:16 - Initing instance of com.epam.classloading.CustomJarClass class
+2017-02-23 22:00:38 DEBUG CustomJarClass:23 - Method of com.epam.classloading.CustomJarClass class
+2017-02-23 22:00:43 DEBUG CustomJarClassLoader:50 - No valid classes were loaded
+2017-02-23 22:00:43 DEBUG CustomJarClassLoader:72 - java.lang.Object Class was loaded from cahce to memory
+2017-02-23 22:00:43 DEBUG CustomJarClassLoader:78 - java.lang.Object Class was loaded to memory
+2017-02-23 22:00:43 DEBUG CustomJarClassLoader:47 - com.epam.classloading.CustomJarClass class loaded in cache from jar
+2017-02-23 22:00:43 DEBUG CustomJarClassLoader:72 - CustomJarClass Class was loaded from cahce to memory
+2017-02-23 22:00:43 DEBUG CustomJarClassLoader:72 - org.apache.log4j.Logger Class was loaded from cahce to memory
+2017-02-23 22:00:43 DEBUG CustomJarClassLoader:78 - org.apache.log4j.Logger Class was loaded to memory
+2017-02-23 22:00:43 DEBUG CustomJarClassLoader:72 - java.lang.StringBuilder Class was loaded from cahce to memory
+2017-02-23 22:00:43 DEBUG CustomJarClassLoader:78 - java.lang.StringBuilder Class was loaded to memory
+2017-02-23 22:00:43 DEBUG CustomJarClassLoader:72 - java.lang.Class Class was loaded from cahce to memory
+2017-02-23 22:00:43 DEBUG CustomJarClassLoader:78 - java.lang.Class Class was loaded to memory
+2017-02-23 22:00:43 DEBUG CustomJarClass:16 - Initing instance of com.epam.classloading.CustomJarClass class
+2017-02-23 22:00:43 DEBUG CustomJarClass:23 - Method of com.epam.classloading.CustomJarClass class
+2017-02-23 22:09:01 DEBUG CustomJarClassLoader:50 - No valid classes were loaded
+2017-02-23 22:09:01 DEBUG CustomJarClassLoader:72 - java.lang.Object Class was loaded from cahce to memory
+2017-02-23 22:09:01 DEBUG CustomJarClassLoader:78 - java.lang.Object Class was loaded to memory
+2017-02-23 22:09:01 DEBUG CustomJarClassLoader:47 - com.epam.classloading.CustomJarClass class loaded in cache from jar
+2017-02-23 22:09:01 DEBUG CustomJarClassLoader:72 - CustomJarClass Class was loaded from cahce to memory
+2017-02-23 22:09:01 DEBUG CustomJarClassLoader:72 - org.apache.log4j.Logger Class was loaded from cahce to memory
+2017-02-23 22:09:01 DEBUG CustomJarClassLoader:78 - org.apache.log4j.Logger Class was loaded to memory
+2017-02-23 22:09:01 DEBUG CustomJarClassLoader:72 - java.lang.StringBuilder Class was loaded from cahce to memory
+2017-02-23 22:09:01 DEBUG CustomJarClassLoader:78 - java.lang.StringBuilder Class was loaded to memory
+2017-02-23 22:09:01 DEBUG CustomJarClassLoader:72 - java.lang.Class Class was loaded from cahce to memory
+2017-02-23 22:09:01 DEBUG CustomJarClassLoader:78 - java.lang.Class Class was loaded to memory
+2017-02-23 22:09:01 DEBUG CustomJarClass:16 - Initing instance of com.epam.classloading.CustomJarClass class
+2017-02-23 22:09:01 DEBUG CustomJarClass:23 - Method of com.epam.classloading.CustomJarClass class
+2017-02-23 22:09:04 DEBUG CustomJarClassLoader:50 - No valid classes were loaded
+2017-02-23 22:09:04 DEBUG CustomJarClassLoader:72 - java.lang.Object Class was loaded from cahce to memory
+2017-02-23 22:09:04 DEBUG CustomJarClassLoader:78 - java.lang.Object Class was loaded to memory
+2017-02-23 22:09:04 DEBUG CustomJarClassLoader:47 - com.epam.classloading.CustomJarClass class loaded in cache from jar
+2017-02-23 22:09:04 DEBUG CustomJarClassLoader:72 - CustomJarClass Class was loaded from cahce to memory
+2017-02-23 22:09:04 DEBUG CustomJarClassLoader:72 - org.apache.log4j.Logger Class was loaded from cahce to memory
+2017-02-23 22:09:04 DEBUG CustomJarClassLoader:78 - org.apache.log4j.Logger Class was loaded to memory
+2017-02-23 22:09:04 DEBUG CustomJarClassLoader:72 - java.lang.StringBuilder Class was loaded from cahce to memory
+2017-02-23 22:09:04 DEBUG CustomJarClassLoader:78 - java.lang.StringBuilder Class was loaded to memory
+2017-02-23 22:09:04 DEBUG CustomJarClassLoader:72 - java.lang.Class Class was loaded from cahce to memory
+2017-02-23 22:09:04 DEBUG CustomJarClassLoader:78 - java.lang.Class Class was loaded to memory
+2017-02-23 22:09:04 DEBUG CustomJarClass:16 - Initing instance of com.epam.classloading.CustomJarClass class
+2017-02-23 22:09:04 DEBUG CustomJarClass:23 - Method of com.epam.classloading.CustomJarClass class
+2017-02-23 22:09:44 DEBUG CustomJarClassLoader:51 - No valid classes were loaded
+2017-02-23 22:09:44 DEBUG CustomJarClassLoader:73 - java.lang.Object Class was loaded from cahce to memory
+2017-02-23 22:09:44 DEBUG CustomJarClassLoader:79 - java.lang.Object Class was loaded to memory
+2017-02-23 22:09:44 DEBUG CustomJarClassLoader:48 - com.epam.classloading.CustomJarClass class loaded in cache from jar
+2017-02-23 22:09:44 DEBUG CustomJarClassLoader:73 - CustomJarClass Class was loaded from cahce to memory
+2017-02-23 22:09:44 DEBUG CustomJarClassLoader:73 - org.apache.log4j.Logger Class was loaded from cahce to memory
+2017-02-23 22:09:44 DEBUG CustomJarClassLoader:79 - org.apache.log4j.Logger Class was loaded to memory
+2017-02-23 22:09:44 DEBUG CustomJarClassLoader:73 - java.lang.StringBuilder Class was loaded from cahce to memory
+2017-02-23 22:09:44 DEBUG CustomJarClassLoader:79 - java.lang.StringBuilder Class was loaded to memory
+2017-02-23 22:09:44 DEBUG CustomJarClassLoader:73 - java.lang.Class Class was loaded from cahce to memory
+2017-02-23 22:09:44 DEBUG CustomJarClassLoader:79 - java.lang.Class Class was loaded to memory
+2017-02-23 22:09:44 DEBUG CustomJarClass:16 - Initing instance of com.epam.classloading.CustomJarClass class
+2017-02-23 22:09:44 DEBUG CustomJarClass:23 - Method of com.epam.classloading.CustomJarClass class
+2017-02-23 22:09:55 DEBUG CustomJarClassLoader:? - No valid classes were loaded
+2017-02-23 22:09:55 DEBUG CustomJarClassLoader:73 - java.lang.Object Class was loaded from cahce to memory
+2017-02-23 22:09:55 DEBUG CustomJarClassLoader:79 - java.lang.Object Class was loaded to memory
+2017-02-23 22:09:55 DEBUG CustomJarClassLoader:? - com.epam.classloading.CustomJarClass class loaded in cache from jar
+2017-02-23 22:09:55 DEBUG CustomJarClassLoader:73 - CustomJarClass Class was loaded from cahce to memory
+2017-02-23 22:09:55 DEBUG CustomJarClassLoader:73 - org.apache.log4j.Logger Class was loaded from cahce to memory
+2017-02-23 22:09:55 DEBUG CustomJarClassLoader:79 - org.apache.log4j.Logger Class was loaded to memory
+2017-02-23 22:09:55 DEBUG CustomJarClassLoader:73 - java.lang.StringBuilder Class was loaded from cahce to memory
+2017-02-23 22:09:55 DEBUG CustomJarClassLoader:79 - java.lang.StringBuilder Class was loaded to memory
+2017-02-23 22:09:55 DEBUG CustomJarClassLoader:73 - java.lang.Class Class was loaded from cahce to memory
+2017-02-23 22:09:55 DEBUG CustomJarClassLoader:79 - java.lang.Class Class was loaded to memory
+2017-02-23 22:09:55 DEBUG CustomJarClass:16 - Initing instance of com.epam.classloading.CustomJarClass class
+2017-02-23 22:09:55 DEBUG CustomJarClass:23 - Method of com.epam.classloading.CustomJarClass class
+2017-02-23 22:10:51 DEBUG CustomJarClassLoader:51 - No valid classes were loaded
+2017-02-23 22:11:11 DEBUG CustomJarClassLoader:73 - java.lang.Object Class was loaded from cahce to memory
+2017-02-23 22:11:11 DEBUG CustomJarClassLoader:79 - java.lang.Object Class was loaded to memory
+2017-02-23 22:11:11 DEBUG CustomJarClassLoader:48 - com.epam.classloading.CustomJarClass class loaded in cache from jar
+2017-02-23 22:11:11 DEBUG CustomJarClassLoader:73 - CustomJarClass Class was loaded from cahce to memory
+2017-02-23 22:11:11 DEBUG CustomJarClassLoader:73 - org.apache.log4j.Logger Class was loaded from cahce to memory
+2017-02-23 22:11:11 DEBUG CustomJarClassLoader:79 - org.apache.log4j.Logger Class was loaded to memory
+2017-02-23 22:11:11 DEBUG CustomJarClassLoader:73 - java.lang.StringBuilder Class was loaded from cahce to memory
+2017-02-23 22:11:11 DEBUG CustomJarClassLoader:79 - java.lang.StringBuilder Class was loaded to memory
+2017-02-23 22:11:11 DEBUG CustomJarClassLoader:73 - java.lang.Class Class was loaded from cahce to memory
+2017-02-23 22:11:11 DEBUG CustomJarClassLoader:79 - java.lang.Class Class was loaded to memory
+2017-02-23 22:11:11 DEBUG CustomJarClass:16 - Initing instance of com.epam.classloading.CustomJarClass class
+2017-02-23 22:11:11 DEBUG CustomJarClass:23 - Method of com.epam.classloading.CustomJarClass class
+2017-02-23 22:31:01 DEBUG CustomJarClassLoader:50 - No valid classes were loaded
+2017-02-23 22:31:01 DEBUG CustomJarClassLoader:72 - java.lang.Object Class was loaded from cahce to memory
+2017-02-23 22:31:01 DEBUG CustomJarClassLoader:78 - java.lang.Object Class was loaded to memory
+2017-02-23 22:31:01 DEBUG CustomJarClassLoader:47 - com.epam.classloading.CustomJarClass class loaded in cache from jar
+2017-02-23 22:31:04 DEBUG CustomJarClassLoader:72 - CustomJarClass Class was loaded from cahce to memory
+2017-02-23 22:31:08 DEBUG CustomJarClassLoader:72 - org.apache.log4j.Logger Class was loaded from cahce to memory
+2017-02-23 22:31:08 DEBUG CustomJarClassLoader:78 - org.apache.log4j.Logger Class was loaded to memory
+2017-02-23 22:31:08 DEBUG CustomJarClassLoader:72 - java.lang.StringBuilder Class was loaded from cahce to memory
+2017-02-23 22:31:08 DEBUG CustomJarClassLoader:78 - java.lang.StringBuilder Class was loaded to memory
+2017-02-23 22:31:08 DEBUG CustomJarClassLoader:72 - java.lang.Class Class was loaded from cahce to memory
+2017-02-23 22:31:08 DEBUG CustomJarClassLoader:78 - java.lang.Class Class was loaded to memory
+2017-02-23 22:31:08 DEBUG CustomJarClass:16 - Initing instance of com.epam.classloading.CustomJarClass class
+2017-02-23 22:31:08 DEBUG CustomJarClass:23 - Method of com.epam.classloading.CustomJarClass class
+2017-02-23 22:34:20 DEBUG Runner:28 - Application options 
+ 1 - Create Custom classloder and load new class to cahce 
+ 2 - Load class to memory 
+ 3 - Use functionality of loaded class 
+ any other key to finish
+2017-02-23 22:34:27 DEBUG CustomJarClassLoader:50 - No valid classes were loaded
+2017-02-23 22:34:27 DEBUG CustomJarClassLoader:72 - java.lang.Object Class was loaded from cahce to memory
+2017-02-23 22:34:27 DEBUG CustomJarClassLoader:78 - java.lang.Object Class was loaded to memory
+2017-02-23 22:34:27 DEBUG CustomJarClassLoader:47 - com.epam.classloading.CustomJarClass class loaded in cache from jar
+2017-02-23 22:34:28 DEBUG CustomJarClassLoader:72 - CustomJarClass Class was loaded from cahce to memory
+2017-02-23 22:34:29 DEBUG CustomJarClassLoader:72 - org.apache.log4j.Logger Class was loaded from cahce to memory
+2017-02-23 22:34:29 DEBUG CustomJarClassLoader:78 - org.apache.log4j.Logger Class was loaded to memory
+2017-02-23 22:34:29 DEBUG CustomJarClassLoader:72 - java.lang.StringBuilder Class was loaded from cahce to memory
+2017-02-23 22:34:29 DEBUG CustomJarClassLoader:78 - java.lang.StringBuilder Class was loaded to memory
+2017-02-23 22:34:29 DEBUG CustomJarClassLoader:72 - java.lang.Class Class was loaded from cahce to memory
+2017-02-23 22:34:29 DEBUG CustomJarClassLoader:78 - java.lang.Class Class was loaded to memory
+2017-02-23 22:34:29 DEBUG CustomJarClass:16 - Initing instance of com.epam.classloading.CustomJarClass class
+2017-02-23 22:34:29 DEBUG CustomJarClass:23 - Method of com.epam.classloading.CustomJarClass class
+2017-02-23 22:34:48 DEBUG Runner:28 - Application options 
+ 1 - Create Custom classloder and load new class to cahce 
+ 2 - Load class to memory 
+ 3 - Use functionality of loaded class 
+ Press any other key to finish
+2017-02-23 22:42:20 DEBUG Runner:34 - Application options: 
+ 1 - Create custom classloder and load new class to cahce 
+ 2 - Load class to memory 
+ 3 - Use functionality of loaded class 
+ Press any other key to finish
+2017-02-23 22:42:27 DEBUG CustomJarClassLoader:50 - No valid classes were loaded
+2017-02-23 22:42:27 DEBUG CustomJarClassLoader:72 - java.lang.Object Class was loaded from cahce to memory
+2017-02-23 22:42:27 DEBUG CustomJarClassLoader:78 - java.lang.Object Class was loaded to memory
+2017-02-23 22:42:27 DEBUG CustomJarClassLoader:47 - com.epam.classloading.CustomJarClass class loaded in cache from jar
+2017-02-23 22:42:28 DEBUG CustomJarClassLoader:72 - CustomJarClass Class was loaded from cahce to memory
+2017-02-23 22:42:30 DEBUG CustomJarClassLoader:72 - org.apache.log4j.Logger Class was loaded from cahce to memory
+2017-02-23 22:42:30 DEBUG CustomJarClassLoader:78 - org.apache.log4j.Logger Class was loaded to memory
+2017-02-23 22:42:30 DEBUG CustomJarClassLoader:72 - java.lang.StringBuilder Class was loaded from cahce to memory
+2017-02-23 22:42:30 DEBUG CustomJarClassLoader:78 - java.lang.StringBuilder Class was loaded to memory
+2017-02-23 22:42:30 DEBUG CustomJarClassLoader:72 - java.lang.Class Class was loaded from cahce to memory
+2017-02-23 22:42:30 DEBUG CustomJarClassLoader:78 - java.lang.Class Class was loaded to memory
+2017-02-23 22:42:30 DEBUG CustomJarClass:16 - Initing instance of com.epam.classloading.CustomJarClass class
+2017-02-23 22:42:30 DEBUG CustomJarClass:23 - Method of com.epam.classloading.CustomJarClass class
+2017-02-23 22:42:56 DEBUG Runner:34 - Application options: 
+ 1 - Create custom classloder and load new class to cahce 
+ 2 - Load class to memory 
+ 3 - Use functionality of loaded class 
+ Press any other key to finish
