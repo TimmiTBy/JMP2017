@@ -31,7 +31,7 @@ public class Runner {
         int choise;
         Scanner scanner = new Scanner(System.in);
         boolean flag = true;
-        logger.debug("Application options: \n 1 - Create custom classloder and load new class to cahce \n "
+        logger.debug("Application options:\n 1 - Create custom classloder and load new class to cahce \n "
                         + "2 - Load class to memory \n 3 - Use functionality of loaded class \n Press any other key to finish");
         while (flag) {
             try {
