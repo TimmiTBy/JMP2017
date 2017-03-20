@@ -14,7 +14,7 @@ public class JMPUserSpringMVCRestInitializer extends AbstractAnnotationConfigDis
 
     @Override
     protected Class<?>[] getServletConfigClasses() {
-        return null;
+        return new Class[]{JPMUserConfigurationSpringMVCRest.class};
     }
 
     @Override

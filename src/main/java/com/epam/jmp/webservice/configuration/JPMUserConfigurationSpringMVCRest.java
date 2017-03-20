@@ -3,6 +3,7 @@ package com.epam.jmp.webservice.configuration;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.EnableWebMvc;
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurerAdapter;
 
 /**
  * Created by Ales on 19.03.2017.
@@ -10,7 +11,7 @@ import org.springframework.web.servlet.config.annotation.EnableWebMvc;
 @Configuration
 @EnableWebMvc
 @ComponentScan(basePackages = "com.epam.jmp.webservice")
-public class JPMUserConfigurationSpringMVCRest {
+public class JPMUserConfigurationSpringMVCRest extends WebMvcConfigurerAdapter {
 
 
 }
