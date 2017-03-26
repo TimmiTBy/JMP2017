@@ -22,44 +22,17 @@ public class UserServiceImpl implements UserService {
     }
 
     @Override
+    public void createOrUpdateUser(User user) {
+        userDao.createOrUpdateUser(user);
+    }
+
+    @Override
     public User findUserById(int id) {
-        List<User> userList = userDao.findAllUsers();
-        for (User user : userList) {
-            if (user.getId() == id) {
-                return user;
-            }
-        }
-        return new User(-1, "default");
+       return userDao.findUserById(id);
     }
 
     @Override
-    public User editUserById(int id, String newName) {
-        List<User> userList = userDao.findAllUsers();
-        for (User user : userList) {
-            if (user.getId() == id) {
-                user.setName(newName);
-                return user;
-            }
-        }
-        return new User(-1, "default");
-    }
-
-    @Override
-    public List<User> createUser(User user) {
-        List<User> userList = userDao.findAllUsers();
-        userList.add(user);
-        return userList;
-    }
-
-    @Override
-    public List<User> deleteUserById(int id) {
-        List<User> userList = userDao.findAllUsers();
-        for (User user : userList) {
-            if (user.getId() == id) {
-                userList.remove(user);
-                return userList;
-            }
-        }
-        return userList;
+    public void deleteUser(User user) {
+        userDao.deleteUser(user);
     }
 }

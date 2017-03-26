@@ -10,4 +10,10 @@ import java.util.List;
 public interface UserDao {
 
     List<User> findAllUsers();
+
+    void createOrUpdateUser(User user);
+
+    User findUserById(int id);
+
+    void deleteUser(User user);
 }

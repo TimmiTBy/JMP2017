@@ -11,12 +11,9 @@ public interface UserService {
 
     List<User> findAllUsers();
 
+    void createOrUpdateUser(User user);
+
     User findUserById(int id);
 
-    User editUserById(int id, String newName);
-
-    List<User> createUser(User user);
-
-    List<User> deleteUserById(int id);
-
+    void deleteUser(User user);
 }

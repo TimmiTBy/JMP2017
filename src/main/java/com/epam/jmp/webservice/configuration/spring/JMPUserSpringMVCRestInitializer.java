@@ -1,4 +1,4 @@
-package com.epam.jmp.webservice.configuration;
+package com.epam.jmp.webservice.configuration.spring;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
@@ -9,12 +9,12 @@ public class JMPUserSpringMVCRestInitializer extends AbstractAnnotationConfigDis
 
     @Override
     protected Class<?>[] getRootConfigClasses() {
-        return new Class[]{JPMUserConfigurationSpringMVCRest.class};
+        return new Class[]{JPMContextConfigurationSpringMVCRest.class};
     }
 
     @Override
     protected Class<?>[] getServletConfigClasses() {
-        return new Class[]{JPMUserConfigurationSpringMVCRest.class};
+        return new Class[]{JPMContextConfigurationSpringMVCRest.class};
     }
 
     @Override
