@@ -18,32 +18,9 @@ import java.util.Properties;
  * Created by Ales on 26.03.2017.
  */
 @Configuration
-@PropertySource(value = "classpath:database.properties")
 @EnableTransactionManagement
 @Profile("hibernate")
 public class HibernateProfile {
-
-    @Value("${jdbc.driverClassName}")
-    private String driverClassName;
-
-    @Value("${jdbc.url}")
-    private String dbURL;
-
-    @Value("${jdbc.username}")
-    private String dbUserName;
-
-    @Value("${jdbc.password}")
-    private String dbPassword;
-
-    @Bean(name = "dataSource")
-    public DataSource getDataSource() {
-        BasicDataSource dataSource = new BasicDataSource();
-        dataSource.setDriverClassName(driverClassName);
-        dataSource.setUrl(dbURL);
-        dataSource.setUsername(dbUserName);
-        dataSource.setPassword(dbPassword);
-        return dataSource;
-    }
 
     @Bean(name = "sessionFactory")
     public SessionFactory getSessionFactory(DataSource dataSource) {
