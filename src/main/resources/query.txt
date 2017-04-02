@@ -1,0 +1,8 @@
+select distinct users.first_name, users.surname from users where id in
+(select friendship.user1_id from
+friendship group by user1_id having count(*) > 1)
+and users.id in (select posts.user_id from posts
+inner join likes on posts.id=likes.post_id
+where posts.id in (select post_id from likes
+where timestamp between DATE '2016-03-01' and DATE '2016-03-31'
+group by post_id having count(*) >1));
